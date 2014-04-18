@@ -36,7 +36,7 @@ function 比較
         [switch]
         $以上,
 
-        [Parameter(ParameterSetName='未満')]
+        [Parameter(ParameterSetName='以下')]
         [switch]
         $以下,
 
