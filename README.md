@@ -59,3 +59,25 @@ $その人の年 = 30
 |if          |もしも     |done|
 |true        |正しい場合 |done|
 |false       |違う場合   |done|
+
+# Number Supported
+
+|Original|Japanese|Status|
+|----|----|----|
+|0|零|done|
+|1|一|done|
+|2|二|done|
+|3|三|done|
+|4|四|done|
+|5|五|done|
+|6|六|done|
+|7|七|done|
+|8|八|done|
+|9|九|done|
+
+# Cmdlet Supported
+
+|Original|Japanese|Status|
+|----|----|----|
+|Write-Host|表示|in progress|
+|others    |----|not yet|
