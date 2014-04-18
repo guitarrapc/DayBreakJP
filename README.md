@@ -5,12 +5,12 @@ An experimental programming language built onto of PowerShell, using Japanese ra
 
 # Sample for CompareOperators and if
 
-Original
+Original PowerShell
 
 ```PowerShell
 $hisAge = 25
 $herAge = 30
-if($hisAge -le $herAge)
+if ($hisAge -lt $herAge)
 {
 	"same age"
 }
