@@ -35,6 +35,17 @@ $その人の年 = 30
 もしも {比較 $あの人の年 $その人の年 -小さい} "同い年だよ" "年ちがっちゃった....."
 ```
 
+# When it loaded?
+
+DayBreakJP will loaded only if your culture is ja-JP.
+To change current Culture, use this cmdlet.
+
+```PowerShell
+Get-Culture # Get culture.
+Set-Culture ja-JP
+```
+
+
 # Comapre Operators supported
 
 |Original|Japanese|Status|
